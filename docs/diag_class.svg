@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="53cm" height="31cm" viewBox="19 45 1057 607" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #e5e5e5" x="600" y="100" width="60.65" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #7f7f7f" x="600" y="100" width="60.65" height="28"/>
+    <text style="fill: #7f7f7f;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="630.325" y="119">Thing</text>
+    <rect style="fill: #e5e5e5" x="600" y="128" width="60.65" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #7f7f7f" x="600" y="128" width="60.65" height="8"/>
+    <rect style="fill: #e5e5e5" x="600" y="136" width="60.65" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #7f7f7f" x="600" y="136" width="60.65" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #9effa4" x="140" y="260" width="101.75" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140" y="260" width="101.75" height="28"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="190.875" y="279">Document</text>
+    <rect style="fill: #9effa4" x="140" y="288" width="101.75" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140" y="288" width="101.75" height="8"/>
+    <rect style="fill: #9effa4" x="140" y="296" width="101.75" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140" y="296" width="101.75" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffda92" x="480" y="260" width="123.85" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="480" y="260" width="123.85" height="28"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="541.925" y="279">SpatialThing</text>
+    <rect style="fill: #ffda92" x="480" y="288" width="123.85" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="480" y="288" width="123.85" height="8"/>
+    <rect style="fill: #ffda92" x="480" y="296" width="123.85" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="480" y="296" width="123.85" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #bcccff" x="680" y="260" width="83.6" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="680" y="260" width="83.6" height="28"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="721.8" y="279">Concept</text>
+    <rect style="fill: #bcccff" x="680" y="288" width="83.6" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="680" y="288" width="83.6" height="8"/>
+    <rect style="fill: #bcccff" x="680" y="296" width="83.6" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="680" y="296" width="83.6" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffb6e2" x="800" y="260" width="81.55" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="800" y="260" width="81.55" height="28"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="840.775" y="279">Country</text>
+    <rect style="fill: #ffb6e2" x="800" y="288" width="81.55" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="800" y="288" width="81.55" height="8"/>
+    <rect style="fill: #ffb6e2" x="800" y="296" width="81.55" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="800" y="296" width="81.55" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #bcccff" x="920" y="260" width="154.35" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="920" y="260" width="154.35" height="28"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="997.175" y="279">ConceptScheme</text>
+    <rect style="fill: #bcccff" x="920" y="288" width="154.35" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="920" y="288" width="154.35" height="8"/>
+    <rect style="fill: #bcccff" x="920" y="296" width="154.35" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="920" y="296" width="154.35" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="630.325,162.236 630.325,201.497 190.875,201.497 190.875,258.994 "/>
+    <polygon style="fill: #ffffff" points="638.325,162.236 630.325,146.236 622.325,162.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="638.325,162.236 630.325,146.236 622.325,162.236 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="630.325,162.236 630.325,201.497 541.925,201.497 541.925,258.994 "/>
+    <polygon style="fill: #ffffff" points="638.325,162.236 630.325,146.236 622.325,162.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="638.325,162.236 630.325,146.236 622.325,162.236 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="630.325,162.236 630.325,201.497 721.8,201.497 721.8,258.994 "/>
+    <polygon style="fill: #ffffff" points="638.325,162.236 630.325,146.236 622.325,162.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="638.325,162.236 630.325,146.236 622.325,162.236 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="630.325,162.236 630.325,201.497 840.775,201.497 840.775,258.994 "/>
+    <polygon style="fill: #ffffff" points="638.325,162.236 630.325,146.236 622.325,162.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="638.325,162.236 630.325,146.236 622.325,162.236 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="630.325,162.236 630.325,201.497 997.175,201.497 997.175,258.994 "/>
+    <polygon style="fill: #ffffff" points="638.325,162.236 630.325,146.236 622.325,162.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="638.325,162.236 630.325,146.236 622.325,162.236 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffb6e2" x="20" y="400" width="48.15" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="20" y="400" width="48.15" height="28"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="44.075" y="419">Map</text>
+    <rect style="fill: #ffb6e2" x="20" y="428" width="48.15" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="20" y="428" width="48.15" height="8"/>
+    <rect style="fill: #ffb6e2" x="20" y="436" width="48.15" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="20" y="436" width="48.15" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffb6e2" x="100" y="400" width="174" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="100" y="400" width="174" height="28"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="187" y="419">'Wikipedia Article'</text>
+    <rect style="fill: #ffb6e2" x="100" y="428" width="174" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="100" y="428" width="174" height="8"/>
+    <rect style="fill: #ffb6e2" x="100" y="436" width="174" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="100" y="436" width="174" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffb6e2" x="300" y="400" width="104.45" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="300" y="400" width="104.45" height="28"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="352.225" y="419">'RDF Data'</text>
+    <rect style="fill: #ffb6e2" x="300" y="428" width="104.45" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="300" y="428" width="104.45" height="8"/>
+    <rect style="fill: #ffb6e2" x="300" y="436" width="104.45" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="300" y="436" width="104.45" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="190.875,322.236 190.875,351.497 44.075,351.497 44.075,398.994 "/>
+    <polygon style="fill: #ffffff" points="198.875,322.236 190.875,306.236 182.875,322.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="198.875,322.236 190.875,306.236 182.875,322.236 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="190.875,323.242 190.875,352 187,352 187,398.994 "/>
+    <polygon style="fill: #ffffff" points="198.875,323.242 190.875,307.242 182.875,323.242 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="198.875,323.242 190.875,307.242 182.875,323.242 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="190.875,322.236 190.875,351.497 352.225,351.497 352.225,398.994 "/>
+    <polygon style="fill: #ffffff" points="198.875,322.236 190.875,306.236 182.875,322.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="198.875,322.236 190.875,306.236 182.875,322.236 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffb6e2" x="480" y="400" width="125.5" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="480" y="400" width="125.5" height="28"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="542.75" y="419">Feature</text>
+    <rect style="fill: #ffb6e2" x="480" y="428" width="125.5" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="480" y="428" width="125.5" height="68"/>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="483" y="442">+alternate name</text>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="483" y="458">+name</text>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="483" y="474">+population</text>
+    <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:monospace;font-style:normal;font-weight:normal" x="483" y="490">+postal code</text>
+    <rect style="fill: #ffb6e2" x="480" y="496" width="125.5" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="480" y="496" width="125.5" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="541.925,322.236 541.925,351.497 542.75,351.497 542.75,398.994 "/>
+    <polygon style="fill: #ffffff" points="549.925,322.236 541.925,306.236 533.925,322.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="549.925,322.236 541.925,306.236 533.925,322.236 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffb6e2" x="900" y="400" width="57.05" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="900" y="400" width="57.05" height="28"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="928.525" y="419">Class</text>
+    <rect style="fill: #ffb6e2" x="900" y="428" width="57.05" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="900" y="428" width="57.05" height="8"/>
+    <rect style="fill: #ffb6e2" x="900" y="436" width="57.05" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="900" y="436" width="57.05" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="997.175,322.236 997.175,352 928.525,352 928.525,400 "/>
+    <polygon style="fill: #ffffff" points="1005.17,322.236 997.175,306.236 989.175,322.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1005.17,322.236 997.175,306.236 989.175,322.236 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #4038b9" points="542.75,505.002 542.75,620 187,620 187,444 "/>
+    <text style="fill: #4038b9;text-anchor:middle;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="364.875" y="617">Wikipedia article</text>
+    <polygon style="fill: #4038b9" points="295.425,617 295.425,609 287.425,613 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #4038b9" points="542.75,504 542.75,650 44.075,650 44.075,444 "/>
+    <text style="fill: #4038b9;text-anchor:middle;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="293.412" y="647">map</text>
+    <polygon style="fill: #4038b9" points="277.863,647 277.863,639 269.862,643 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #4038b9" points="542.75,504 542.75,590 352.225,590 352.225,444 "/>
+    <text style="fill: #4038b9;text-anchor:middle;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="447.488" y="587">neighbouring features</text>
+    <polygon style="fill: #4038b9" points="362.638,587 362.638,579 354.638,583 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #4038b9" points="542.75,504 542.75,560 352.225,560 352.225,444 "/>
+    <text style="fill: #4038b9;text-anchor:middle;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="447.488" y="557">nearby features</text>
+    <polygon style="fill: #4038b9" points="385.738,557 385.738,549 377.738,553 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #4038b9" points="542.75,504 542.75,530 352.225,530 352.225,444 "/>
+    <text style="fill: #4038b9;text-anchor:middle;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="447.488" y="527">children features</text>
+    <polygon style="fill: #4038b9" points="378.038,527 378.038,519 370.038,523 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #4038b9" points="630.325,99.1133 630.325,60 460,60 460,452 479.031,452 "/>
+    <text style="fill: #4038b9;text-anchor:middle;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="545.163" y="57">located in</text>
+    <polygon style="fill: #4038b9" points="502.663,57 502.663,49 494.663,53 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #4038b9" points="542.75,504 542.75,560 690,560 690,304 721.8,304 "/>
+    <text style="fill: #4038b9;text-anchor:middle;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="616.375" y="557">tag</text>
+    <polygon style="fill: #4038b9" points="629.925,557 629.925,549 637.925,553 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #4038b9" points="542.75,504 542.75,620 840.775,620 840.775,304 "/>
+    <text style="fill: #4038b9;text-anchor:middle;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="691.762" y="617">country</text>
+    <polygon style="fill: #4038b9" points="720.713,617 720.713,609 728.713,613 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #4038b9" points="542.75,504 542.75,650 928.525,650 928.525,444 "/>
+    <text style="fill: #4038b9;text-anchor:middle;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="735.638" y="647">feature class</text>
+    <polygon style="fill: #4038b9" points="787.688,647 787.688,639 795.688,643 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffb6e2" x="700" y="400" width="55.05" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="700" y="400" width="55.05" height="28"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:16;font-family:sanserif;font-style:normal;font-weight:700" x="727.525" y="419">Code</text>
+    <rect style="fill: #ffb6e2" x="700" y="428" width="55.05" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="700" y="428" width="55.05" height="8"/>
+    <rect style="fill: #ffb6e2" x="700" y="436" width="55.05" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="700" y="436" width="55.05" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="721.8,323.242 721.8,352.503 727.525,352.503 727.525,400 "/>
+    <polygon style="fill: #ffffff" points="729.8,323.242 721.8,307.242 713.8,323.242 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="729.8,323.242 721.8,307.242 713.8,323.242 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #4038b9" points="542.75,504 542.75,590 727.525,590 727.525,444 "/>
+    <text style="fill: #4038b9;text-anchor:middle;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="635.138" y="587">feature code</text>
+    <polygon style="fill: #4038b9" points="683.337,587 683.337,579 691.337,583 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #4038b9" points="542.75,504 542.75,530 670,530 670,330 556,330 556,400 542.75,400 "/>
+    <text style="fill: #4038b9;text-anchor:middle;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="613" y="327">parent feature</text>
+    <polygon style="fill: #4038b9" points="668.9,327 668.9,319 676.9,323 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #4038b9" points="542.75,504 542.75,530 660,530 660,350 564,350 564,400 542.75,400 "/>
+    <text style="fill: #4038b9;text-anchor:middle;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="612" y="347">neighbour</text>
+    <polygon style="fill: #4038b9" points="648.65,347 648.65,339 656.65,343 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #4038b9" points="542.75,504 542.75,530 650,530 650,370 572,370 572,400 542.75,400 "/>
+    <text style="fill: #4038b9;text-anchor:middle;font-size:12.7998;font-family:monospace;font-style:normal;font-weight:normal" x="611" y="367">nearby</text>
+    <polygon style="fill: #4038b9" points="636.1,367 636.1,359 644.1,363 "/>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffb6e2" x="60" y="60" width="40" height="20"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="60" y="60" width="40" height="20"/>
+    </g>
+    <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="110" y="74">
+      <tspan x="110" y="74">geonames</tspan>
+    </text>
+    <g>
+      <rect style="fill: #9effa4" x="60" y="90" width="40" height="20"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="60" y="90" width="40" height="20"/>
+    </g>
+    <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="110" y="104">
+      <tspan x="110" y="104">foaf</tspan>
+    </text>
+    <g>
+      <rect style="fill: #bcccff" x="60" y="120" width="40" height="20"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="60" y="120" width="40" height="20"/>
+    </g>
+    <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="110" y="134">
+      <tspan x="110" y="134">skos</tspan>
+    </text>
+    <g>
+      <rect style="fill: #ffda92" x="60" y="150" width="40" height="20"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="60" y="150" width="40" height="20"/>
+    </g>
+    <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="110" y="164">
+      <tspan x="110" y="164">geo</tspan>
+    </text>
+    <g>
+      <rect style="fill: #e5e5e5" x="60" y="180" width="40" height="20"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #7f7f7f" x="60" y="180" width="40" height="20"/>
+    </g>
+    <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="110" y="194">
+      <tspan x="110" y="194">owl</tspan>
+    </text>
+  </g>
+</svg>
