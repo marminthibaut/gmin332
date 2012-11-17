@@ -1,6 +1,8 @@
 package gmin332.app.servlet;
 
 import java.io.IOException;
+
+import gmin332.app.utils.JenaUtils;
 import gmin332.app.utils.ServletUtils;
 import java.io.PrintWriter;
 import javax.servlet.ServletConfig;
@@ -8,6 +10,8 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+
+import com.hp.hpl.jena.rdf.model.Model;
 
 public class ExploreServlet extends HttpServlet {
 	private String param1;
@@ -31,8 +35,25 @@ public class ExploreServlet extends HttpServlet {
 		response.sendRedirect(ServletUtils.getBaseUrl(request));
 	}
 
+	// POST
 	public void doPost(HttpServletRequest request, HttpServletResponse response)
 			throws IOException, ServletException {
-		getServletContext().getRequestDispatcher("/explore.jsp");
+
+		String jsp_page = "/explore.jsp";
+		try {
+
+			String uri_ontology = "http://"
+					+ request.getParameter("uri_ontology");
+			System.out.println("URI_ONTOLOGY = " + uri_ontology);
+
+			Model model = JenaUtils.importModel(uri_ontology);
+		} catch (Exception e) {
+			request.setAttribute("Exception", e);
+			System.out.println(e);
+			jsp_page = "/default.jsp";
+		}
+
+		getServletContext().getRequestDispatcher(jsp_page).forward(request,
+				response);
 	}
 }
