@@ -79,7 +79,7 @@ function init(){
         //set animation transition type
         transition: $jit.Trans.Quart.easeInOut,
         //set distance between node and its children
-        levelDistance: 50,
+        levelDistance: 60,
         //set max levels to show. Useful when used with
         //the request method for requesting trees of specific depth
         levelsToShow: 2,
@@ -88,20 +88,20 @@ function init(){
         //nodes or edges
         Node: {
             height: 20,
-            width: 40,
+            width: 100,
             //use a custom
             //node rendering function
             type: 'nodeline',
-            color:'#23A4FF',
+            color:'#FFF',
             lineWidth: 2,
-            align:"center",
+            align:"right",
             overridable: true
         },
         
         Edge: {
             type: 'bezier',
             lineWidth: 2,
-            color:'#23A4FF',
+            color:'#A1A1A1',
             overridable: true
         },
         
@@ -140,7 +140,7 @@ function init(){
             style.width = 40 + 'px';
             style.height = 17 + 'px';            
             style.cursor = 'pointer';
-            style.color = '#fff';
+            style.color = '#000';
             //style.backgroundColor = '#1a1a1a';
             style.fontSize = '0.8em';
             style.textAlign= 'center';
@@ -157,7 +157,7 @@ function init(){
             //add some color to the nodes in the path between the
             //root node and the selected node.
             if (node.selected) {
-                node.data.$color = "#ff7";
+                node.data.$color = "#0088CC";
             }
             else {
                 delete node.data.$color;
@@ -171,7 +171,7 @@ function init(){
         //override the Edge global style properties.
         onBeforePlotLine: function(adj){
             if (adj.nodeFrom.selected && adj.nodeTo.selected) {
-                adj.data.$color = "#eed";
+                adj.data.$color = "#0088CC";
                 adj.data.$lineWidth = 3;
             }
             else {

@@ -11,22 +11,26 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import com.hp.hpl.jena.ontology.OntModel;
 import com.hp.hpl.jena.rdf.model.Model;
+import com.hp.hpl.jena.rdf.model.ModelFactory;
 
 public class ExploreServlet extends HttpServlet {
-	private String param1;
-	private String param2;
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 455176115176745971L;
 
 	// Init function
 	public void init() {
-		ServletConfig config = getServletConfig();
-		/*
-		 * this.param1 = config.getInitParameter("param1"); this.param2 =
-		 * config.getInitParameter("param2");
-		 * 
-		 * if (this.param1 == null) this.param1 = "param1raté"; if (this.param2
-		 * == null) this.param2 = "param2raté";
-		 */
+		// ServletConfig config = getServletConfig();
+		//
+		// this.param1 = config.getInitParameter("param1"); this.param2 =
+		// config.getInitParameter("param2");
+		//
+		// if (this.param1 == null) this.param1 = "param1raté"; if (this.param2
+		// == null) this.param2 = "param2raté";
+
 	}
 
 	// GET
@@ -46,7 +50,10 @@ public class ExploreServlet extends HttpServlet {
 					+ request.getParameter("uri_ontology");
 			System.out.println("URI_ONTOLOGY = " + uri_ontology);
 
-			Model model = JenaUtils.importModel(uri_ontology);
+			OntModel model = JenaUtils.importModel(uri_ontology);
+
+			request.setAttribute("json", JenaUtils.modelToJson(model));
+
 		} catch (Exception e) {
 			request.setAttribute("Exception", e);
 			System.out.println(e);
