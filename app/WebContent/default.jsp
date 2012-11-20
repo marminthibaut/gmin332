@@ -13,7 +13,7 @@
 	</div>
 
 	<div class="row">
-		<div class="span3">couocu</div>
+		<div class="span3">yop</div>
 		<div class="span9">
 			<%
 				if (e != null) {

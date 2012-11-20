@@ -7,12 +7,18 @@
 	<servlet>
 		<servlet-name>explore</servlet-name>
 		<servlet-class>gmin332.app.servlet.ExploreServlet</servlet-class>
-		<!-- <init-param> <param-name>param2</param-name> <param-value>param2value</param-value> 
-			</init-param> -->
+		<init-param>
+			<param-name>hostname</param-name>
+			<param-value>localhost:8080</param-value>
+		</init-param>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>explore</servlet-name>
 		<url-pattern>/explore</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>explore</servlet-name>
+		<url-pattern>/explore/json</url-pattern>
 	</servlet-mapping>
 	<welcome-file-list>
 		<welcome-file>/default.jsp</welcome-file>
