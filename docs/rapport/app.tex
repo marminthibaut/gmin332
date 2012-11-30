@@ -1,0 +1,33 @@
+\section{Développement}
+
+\emph{L'outil développé permet, à partir d'une url pointant une ontologie, de la représenter sous la forme d'un graphe
+}
+
+\subsection{Description}
+
+Devant utiliser Jena, nous avons fait le choix de développer une application javaWeb. Celle-ci est composée de deux pages :
+\begin{itemize}
+    \item La page d'accueil contenant le champ url,
+    \item La page d'affichage du graphe.
+\end{itemize}
+
+\subsection{J2EE}
+
+L'application est composée d'une unique servlet permettant l'accès au graph (\texttt{/explore}). Il est également possible de récupérer le json décrivant le graphe à l'adresse \texttt{/explore/json}. Deux pages JSP ont été définies permettant la définition du formulaire (\texttt{default.jsp}) et de l'explorer (\texttt{explorer.jsp}).
+
+\subsection{Jena}
+
+Lors de la soumission du formulaire, un OntModel de Jena est chargé à partir de l'url soumise. Un générateur de code json ajoute une classe 'Thing' (classe root) puis parcours le modèle de l'ontologie chargé avec Jena.
+
+\subsection{Graphe}
+
+L'affichage du graphe se fait à l'aide de la librairie JavaScript N3 (\url{https://github.com/RubenVerborgh/node-n3/}). Le graphe est en faite un arbre, qui est généré à partir d'une ressource json externe (ici \texttt{/explore/json}).
+
+\subsection{Difficultés}
+
+    Le OntModel de Jena peut être paramétré afin d’accepter un certain type d'ontologie. Le problème est que nous voulions faire un produit générique. Nous n'avons pas trouvé de manière pour charger correctement toutes les ontologies. Du coup plusieurs problèmes peuvent apparaître :
+        L'ontologie ne se charge pas : c'est le pire des cas, seulement le nœud 'Thing' est présent,
+        L'ontologie possède des classes en double.
+    Notre application ne gère pas les classes définies avec des owl:Restrictions. Cela affecte le graphe par l'ajout de nœuds vides, qui le rendent inexploitable.
+    Ajoutons qu'ayant très peu développé d'application java web, la mise en route à été particulièrement longue pour ce projet.
+
