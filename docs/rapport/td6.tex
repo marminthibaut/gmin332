@@ -1,10 +1,14 @@
+% !TEX root = gmin332.tex
+
 \section{TD 6}
-\subsection{Diagramme de classes}
+\subsection{1. Enoncé}
+
+\subsubsection{Diagramme de classes}
 \begin{figure}[H]
   \includegraphics[width=\textwidth]{../diag_class}
   \caption{Diagramme de classes de l'ontologie Géonames (Lite).}
 \end{figure}
-\subsection{Questions}
+
 \subsubsection{Question 1}
 \begin{verbatim}
 PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
@@ -113,7 +117,8 @@ where {
 }
 \end{verbatim}
 Sélection de toutes les entités qui ont au moins une relation avec une feature (relation ayant comme range Feature).
-Questions sur le modèle
+
+\subsection{2. Questions sur le modèle}
 
     Une feature au sens géonames peut admettre plusieurs codes, étant donné qu'aucune contrainte de cardinalité n'est définie dans l'ontologie.
     Geonames utilise qu'une faible partie de skos pour définir ses concepts. On y retrouve l'utilisation des ckasses de scheme et de concept (et donc la relation inScheme), ainsi que les comments et prefLabel. Mais aucune hiérarchie ni relations entre concepts ne sont définies (broader / narrower / related / etc...).
